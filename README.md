@@ -16,9 +16,6 @@ Please Fork freely and send PR.
 
 ## Uses animation
 
-<iframe width="500" height="500" src="https://lottiefiles.com/iframe/1055-world-locations" frameborder="0" allowfullscreen>
-</iframe>
-
 https://www.lottiefiles.com/1055-world-locations
 
 ## License
