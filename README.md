@@ -9,7 +9,7 @@
 It is iOS application that animation viewer used Lottie library.
 
 ## Demo
-<img src="" width=49%>  <img src="" width=49%>
+<img src="https://github.com/yoshi1125hisa/ios-lottie-preview/blob/master/img/img1.png" width=49%>  <img src="https://github.com/yoshi1125hisa/ios-lottie-preview/blob/master/img/img2.png" width=49%>
 
 ## Contribution
 Please Fork freely and send PR.
